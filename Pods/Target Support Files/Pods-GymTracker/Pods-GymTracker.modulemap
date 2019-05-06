@@ -1,0 +1,6 @@
+framework module Pods_GymTracker {
+  umbrella header "Pods-GymTracker-umbrella.h"
+
+  export *
+  module * { export * }
+}
