@@ -6,4 +6,4 @@ This app uses:
 * Firebase Database
 * Firebase Authentication
 
-<img src="Images/LoginPage.jpg" height="310"> <img src="Images/MainPage.jpg" height="310"> <img src="Images/CalendarPage.jpg" height="310"> <img src="Images/WorkoutPage.jpg" height="310"> <img src="Images/ExecuteWorkoutPage.jpg" height="310"> 
+<img src="Images/LoginPage.jpg" height="300"> <img src="Images/MainPage.jpg" height="300"> <img src="Images/CalendarPage.jpg" height="300"> <img src="Images/WorkoutPage.jpg" height="300"> <img src="Images/ExecuteWorkoutPage.jpg" height="300"> 
